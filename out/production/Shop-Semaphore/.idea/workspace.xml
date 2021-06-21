@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b6807975-8713-4965-92ec-b8036e47a98a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1me4ZYAarFSMbuGrlcRSvPiAfNA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Canteen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Canteen" />
+      <module name="Shop-Semaphore" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Canteen" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6807975-8713-4965-92ec-b8036e47a98a" name="Default Changelist" comment="" />
+      <created>1609840778568</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609840778568</updated>
+      <workItem from="1609840781017" duration="6677000" />
+      <workItem from="1609848158829" duration="629000" />
+      <workItem from="1610131075342" duration="569000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1470" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1609847842138">
+      <screen x="1152" y="23" width="1680" height="1027" />
+    </state>
+    <state x="218" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/1152.23.1680.1027/0.23.1152.633@0.23.1152.633" timestamp="1609845420641" />
+    <state x="1470" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/1152.23.1680.1027/0.23.1152.633@1152.23.1680.1027" timestamp="1609847842138" />
+    <state width="1623" height="427" key="GridCell.Tab.0.bottom" timestamp="1609848826109">
+      <screen x="1152" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1623" height="427" key="GridCell.Tab.0.bottom/1152.23.1680.1027/0.23.1152.633@1152.23.1680.1027" timestamp="1609848826109" />
+    <state width="1623" height="427" key="GridCell.Tab.0.center" timestamp="1609848826108">
+      <screen x="1152" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1623" height="427" key="GridCell.Tab.0.center/1152.23.1680.1027/0.23.1152.633@1152.23.1680.1027" timestamp="1609848826108" />
+    <state width="1623" height="427" key="GridCell.Tab.0.left" timestamp="1609848826107">
+      <screen x="1152" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1623" height="427" key="GridCell.Tab.0.left/1152.23.1680.1027/0.23.1152.633@1152.23.1680.1027" timestamp="1609848826107" />
+    <state width="1623" height="427" key="GridCell.Tab.0.right" timestamp="1609848826108">
+      <screen x="1152" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1623" height="427" key="GridCell.Tab.0.right/1152.23.1680.1027/0.23.1152.633@1152.23.1680.1027" timestamp="1609848826108" />
+  </component>
+</project>
